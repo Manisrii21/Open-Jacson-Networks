@@ -64,7 +64,7 @@ else:
 print("----------------------------------------------------------------------")
 ```
 ## Output:
-![j2](https://github.com/nithin-popuri7/Open-Jacson-Networks/assets/94154780/6805b552-88b9-4528-895a-481778f7daf6)
+![image](https://github.com/Manisrii21/Open-Jacson-Networks/assets/147140163/36363f59-cac2-448a-9518-c4dac609821c)
 
 
 ## Result:
